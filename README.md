@@ -35,3 +35,15 @@ pull(
  { eventName: 'Another Event', recepient: 'Some Subscriber' }
  { eventName: 'Another Event', recepient: 'Another Subscriber' }
 ```
+
+## install
+
+With [npm](https://npmjs.org) do:
+
+```
+npm install pull-cartesian
+```
+
+## license
+
+MIT
