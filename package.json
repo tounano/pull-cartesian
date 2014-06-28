@@ -1,0 +1,29 @@
+{
+  "name": "pull-cartesian",
+  "version": "0.0.1",
+  "main": "./cartesian.js",
+  "description": "pull-stream that performs cartesian multiplication on json objects.",
+  "homepage": "https://github.com/tounano/pull-cartesian/",
+  "author": "ClickHere <js@clickhere.co.il>",
+  "keywords": [
+    "streams",
+    "pull-stream",
+    "cartesian"
+  ],
+  "licenses": {
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tounano/pull-cartesian"
+  },
+  "engines": {
+    "node": ">=0.6.11 <=0.7.0 || >=0.7.3"
+  },
+  "dependencies": {
+    "pull-stream": "latest",
+    "pull-replay": "latest",
+    "underscore": "latest"
+  }
+}
